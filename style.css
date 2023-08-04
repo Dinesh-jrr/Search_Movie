@@ -1,0 +1,36 @@
+*{
+    padding:0px;
+    margin:0px;
+    box-sizing: border-box;
+}
+body{
+    margin:0px;
+    padding:0px;
+    justify-content: center;
+    background-color:rgb(89, 104, 177);
+    background-position: center;
+    background-size: cover;
+}
+
+.container{
+    height:80px;
+    width:100%;
+    border:none;
+    border-radius:50px;
+    margin:auto auto;
+    background-color:violet;
+    text-align: center;
+    color:white;
+    margin-bottom:20px;
+
+}
+.show{
+    display:flex;
+    flex-direction: row;
+    height:500px;
+    width:50%;
+    margin-right:5px;
+    gap:10px;
+
+}
+
